@@ -18,5 +18,6 @@ public class Date {
 
     public void displayDate(){
         System.out.println("date :-"+day+"/"+month+"/"+year);
+        System.out.println("-----------------------------------");
     }
 }
